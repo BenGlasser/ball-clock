@@ -6,6 +6,10 @@
   "scripts": {
     "test": "test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenGlasser/ball-clock.git"
+  },
   "bin": {
     "ball-clock": "./bin/ball-clock"
   },
