@@ -6,6 +6,9 @@
   "scripts": {
     "test": "test"
   },
+  "bin": {
+    "ball-clock": "./bin/ball-clock"
+  },
   "author": "Ben Glasser",
   "license": "GPL-3.0",
   "dependencies": {}
