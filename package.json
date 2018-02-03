@@ -8,8 +8,5 @@
   },
   "author": "Ben Glasser",
   "license": "GPL-3.0",
-  "dependencies": {
-    "@angular/router": "^5.2.3",
-    "opts": "^1.2.6"
-  }
+  "dependencies": {}
 }
