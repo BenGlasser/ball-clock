@@ -4,6 +4,8 @@ a command line simulation of a mechanical [ball clock](https://en.wikipedia.org/
 
 ## Usage
 
+```
 usage: ball-clock n1 [n2]
        n1: number of balls to load the clock with (26 < n1 < 128)
        n2: number of minutes to run the simulation
+       ```
