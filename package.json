@@ -1,0 +1,15 @@
+{
+  "name": "ball-clock",
+  "version": "1.0.0",
+  "description": "ball clock simulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ben Glasser",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@angular/router": "^5.2.3",
+    "opts": "^1.2.6"
+  }
+}
