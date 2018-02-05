@@ -4,6 +4,8 @@ a command line simulation of a mechanical [ball clock](https://en.wikipedia.org/
 
 ## Installation
 
+[![NPM](https://nodei.co/npm/ball-clock.png)](https://npmjs.org/package/ball-clock)
+
 ```npm install -g ball-clock```
 
 ## Usage
