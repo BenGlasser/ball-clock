@@ -1,3 +1,6 @@
+
+[![NPM](https://nodei.co/npm/ball-clock.png)](https://npmjs.org/package/ball-clock)
+
 # Ball Clock
 
 a command line simulation of a mechanical [ball clock](https://en.wikipedia.org/wiki/Rolling_ball_clock)
