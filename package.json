@@ -1,6 +1,6 @@
 {
   "name": "ball-clock",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "ball clock simulation",
   "main": "index.js",
   "scripts": {
