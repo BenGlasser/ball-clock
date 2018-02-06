@@ -18,6 +18,6 @@
     "lib"
   ],
   "author": "Ben Glasser",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "dependencies": {}
 }
